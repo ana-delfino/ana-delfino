@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Ana Delfino. 
 - 🎓 I've Bachalor’s degree in Economics from Universidade Federal do Rio de Janeiro and Master's degree in engineering from PUC-Rio. 
-- ✅ I've earned the Data Analyst Associate (DA-100-Power BI) certification issued by Microsoft.
+- ✅ I've earned the Data Analyst Associate certification (DA-100-Power BI) issued by Microsoft.
 - 🏢 I’m currently working at Americanas.sa's AI team. Americanas is one of the largest retail platforms in South America.
 - 📢 At work I'm ahead of two initiatives: 
   - Feature store: working in the development of feature stores;
