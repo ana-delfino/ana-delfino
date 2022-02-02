@@ -3,13 +3,10 @@
 
 
 - 👋 Hi, I’m Ana Delfino. 
-- 🎓 I've Bachalor’s degree in Economics from Universidade Federal do Rio de Janeiro and Master's degree in engineering from PUC-Rio. 
+- 🎓 I've Bachalor’s degree in Economics from <a href="https://ufrj.br/en/">Universidade Federal do Rio de Janeiro</a> and Master's degree in engineering from <a href="http://www.ind.puc-rio.br/en/"> PUC-Rio</a>. 
 - ✅ I've earned the Data Analyst Associate certification (DA-100-Power BI) issued by Microsoft.
-- 🏢 I’m currently working at Americanas.sa's AI team. Americanas is one of the largest retail platforms in South America.
-- 📢 At work I'm ahead of two initiatives: 
-  - Feature store: working in the development of feature stores;
-  - AI Pre-built models: notebooks with pre-trained AI models that tackle the most common and high-impact use cases that bussiness teams are facing.
-- 🤖 I’m interested in positions as data scientist.
+- 📚 I’m currently learning Statistics and Machine Learning algorithms.
+
 
 
 ### Language and Tools:
