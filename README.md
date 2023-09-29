@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Ana Delfino. 
 - 🎓 I've Bachalor’s degree in Economics from <a href="https://ufrj.br/en/">Universidade Federal do Rio de Janeiro</a> and Master's degree in engineering from <a href="http://www.ind.puc-rio.br/en/"> PUC-Rio</a>. 
 - ✅ I've earned the Data Analyst Associate certification (DA-100-Power BI) issued by Microsoft.
-- 📚 I’m currently learning Statistics and Machine Learning algorithms.
+- 📚 I’m currently a data scientist.
 
 
 
